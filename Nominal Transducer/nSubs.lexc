@@ -1,0 +1,14 @@
+Multichar_Symbols +N +F +SG +PL
+
+LEXICON Root
+<@txt"nSubs.lemas">	Substantivo;
+
+LEXICON Substantivo
++N:0 Gênero;
+
+LEXICON Gênero
++F:0 Número;
+
+LEXICON Número
++SG:0 #;
++PL:s #;
