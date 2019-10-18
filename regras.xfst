@@ -1,0 +1,6 @@
+define MB "^" ;
+regex [ l -> i || _ MB ];
+define DeleteMB [ MB -> 0 ];
+regex DeleteMB;
+turn stack
+compose net

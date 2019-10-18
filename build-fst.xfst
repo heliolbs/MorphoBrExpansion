@@ -1,0 +1,4 @@
+source regras.xfst
+read lexc nAdj.lexc
+compose net
+save stack nAdj.fst
