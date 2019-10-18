@@ -1,0 +1,7 @@
+Multichar_Symbols +ADV
+
+LEXICON Root
+<@txt"nAdv.lemas">	Advérbio;
+
+LEXICON Advérbio
++ADV:0	#;
