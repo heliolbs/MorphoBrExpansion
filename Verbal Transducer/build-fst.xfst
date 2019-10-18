@@ -1,0 +1,4 @@
+source regras.xfst
+read lexc nVerb.lexc
+compose net
+save stack nVerb.fst
