@@ -1,3 +1,2 @@
 read lexc nSubs.lexc
-compose net
 save stack nSubs.fst
