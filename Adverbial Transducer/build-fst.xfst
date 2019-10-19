@@ -1,3 +1,2 @@
 read lexc nAdv.lexc
-compose net
 save stack nAdv.fst
