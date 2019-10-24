@@ -36,3 +36,5 @@ source build-fst.xfst
 The next step is to print all the forms from the transducer we have just created. To to this, write the following command and type enter:
 
 print words > newwords.dict
+
+The files ".dict" contain the pairs of inflected forms and PoStagged forms, following MorphoBr's structure.
