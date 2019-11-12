@@ -5,7 +5,7 @@ Author: Hélio L. B. Silva heliolbs@alu.ufc.br
 
 License: GNU General Public License Version 3 (https://www.gnu.org/licenses/gpl-3.0.txt)
 
-How to cite this work: SILVA, H. L. B. Expansão do MorphoBr através da modelagem computacional de processos de formação de palavras no português. 2019. Dissertação (Mestrado em Linguística) - Programa de Pós-Graduação em Linguística, Universidade Federal do Ceará, Fortaleza, 2019.
+How to cite this work: SILVA, H. L. B. Expansão do MorphoBr através da modelagem computacional de processos de formação de palavras em português. 2019. Dissertação (Mestrado em Linguística) - Programa de Pós-Graduação em Linguística, Universidade Federal do Ceará, Fortaleza, 2019.
 
 MorphoBr data is available at https://github.com/LFG-PTBR/MorphoBr
 
